@@ -1,0 +1,22 @@
+[33m4663a99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: fix: 인코딩 수정 (UTF-8)
+[33m1f32993[m HEAD@{1}: commit: docs: 나머지 정리 파일 추가 (Spring MVC, 전공조사)
+[33m47afdab[m HEAD@{2}: commit: feat: 어노테이션 및 Spring 4대 개념 정리 추가
+[33me526ce7[m HEAD@{3}: reset: moving to e526ce7
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{4}: checkout: moving from new to main
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{5}: checkout: moving from fix-branch to new
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{6}: checkout: moving from themoment to fix-branch
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{7}: reset: moving to main
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{8}: checkout: moving from themoment to themoment
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{9}: checkout: moving from themoment to themoment
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{10}: checkout: moving from main to themoment
+[33mbd943f7[m[33m ([m[1;31morigin/themoment[m[33m, [m[1;31morigin/new[m[33m, [m[1;32mthemoment[m[33m, [m[1;32mnew[m[33m, [m[1;32mfix-branch[m[33m)[m HEAD@{11}: commit: 전공조사, HTTP 파일 추가
+[33m3d23d48[m HEAD@{12}: checkout: moving from themoment-til to main
+[33m888160c[m[33m ([m[1;32mthemoment-til[m[33m)[m HEAD@{13}: checkout: moving from main to themoment-til
+[33m3d23d48[m HEAD@{14}: pull origin main --rebase (finish): returning to refs/heads/main
+[33m3d23d48[m HEAD@{15}: pull origin main --rebase (pick): TIL 작업 업로드
+[33m6fc7e7c[m HEAD@{16}: pull origin main --rebase (pick): 더모먼트과제
+[33m8f650ad[m HEAD@{17}: pull origin main --rebase (start): checkout 8f650ad4561e0ed36f6286a141ba62b694e83550
+[33m888160c[m[33m ([m[1;32mthemoment-til[m[33m)[m HEAD@{18}: Branch: renamed refs/heads/themoment-til2 to refs/heads/main
+[33m888160c[m[33m ([m[1;32mthemoment-til[m[33m)[m HEAD@{20}: checkout: moving from themoment-til to themoment-til2
+[33m888160c[m[33m ([m[1;32mthemoment-til[m[33m)[m HEAD@{21}: commit: TIL 작업 업로드
+[33m308701c[m HEAD@{22}: commit (initial): 더모먼트과제
